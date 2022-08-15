@@ -1,0 +1,16 @@
+{"level":"info","message":"\n    ################################################\n          Server is listening on port: 8080\n    ################################################\n  ","timestamp":"2022-08-15T06:16:59.597Z"}
+{"level":"info","message":"MongoDB Connected: fe-bot-test-shard-00-01.dj4bn.mongodb.net","timestamp":"2022-08-15T06:17:00.087Z"}
+{"level":"info","message":"MongoDB Connected: fe-bot-test-shard-00-02.dj4bn.mongodb.net","timestamp":"2022-08-15T06:21:14.258Z"}
+{"level":"info","message":"Administrator was created in the data base","timestamp":"2022-08-15T06:21:14.578Z"}
+{"level":"info","message":"User Masha@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.184Z"}
+{"level":"info","message":"User Dasha@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.315Z"}
+{"level":"info","message":"User Lara@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.440Z"}
+{"level":"info","message":"User Misha@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.564Z"}
+{"level":"info","message":"User Maria@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.693Z"}
+{"level":"info","message":"User Oleg@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.821Z"}
+{"level":"info","message":"User Olha@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:15.940Z"}
+{"level":"info","message":"User Maryna@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:16.072Z"}
+{"level":"info","message":"User Vitaliy@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:16.192Z"}
+{"level":"info","message":"User Anton@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:16.320Z"}
+{"level":"info","message":"User Ira@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:16.441Z"}
+{"level":"info","message":"User Nadiya@gmail.com was created in the data base","timestamp":"2022-08-15T06:21:16.562Z"}
